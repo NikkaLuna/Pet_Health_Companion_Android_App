@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-64dp"
+        tools:layout_editor_absoluteY="46dp">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_margin="2dp"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Pet's Name: "/>
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:id="@+id/petName"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_margin="2dp"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Pet's Species: "/>
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:id="@+id/species"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_margin="2dp"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Pet's Breed: "/>
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:id="@+id/breed"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_margin="2dp"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Pet's Birthday: "/>
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:inputType="none"
+                android:id="@+id/birthday"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

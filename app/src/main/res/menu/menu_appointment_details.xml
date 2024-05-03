@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Save Appointment"
+        android:id="@+id/appointmentSave"/>
+
+    <item android:title="Delete Appointment"
+        android:id="@+id/appointmentDelete"/>
+
+    <item android:title="Share Appointment Details"
+        android:orderInCategory="100"
+        android:icon="@drawable/rounded_cardiology_24"
+        android:id="@+id/share"/>
+
+
+    <item android:title="Set Notification for Appointment"
+        android:orderInCategory="100"
+        android:id="@+id/notify"/>
+
+    <item android:title="Add Sample Notes"
+        android:orderInCategory="100"
+        android:id="@+id/addSampleNotes"/>
+
+</menu>
