@@ -113,7 +113,3 @@ With the Pet Health Companion App, you can set notifications for your pet’s bi
 
 When you are all finished using the Pet Health Companion App, you can easily log out so to secure your pet’s data. In the ‘Pet and Upcoming Appointments’ page, simply click on the menu and, in the dropdown menu, select the ‘Logout’ option. You will be redirected to the Login page and will receive a confirmation message that you have been logged out.
 
-### Panopto Video Link
-
-https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3a63597-dcec-4d6c-a6fe-b1550143665e
-
