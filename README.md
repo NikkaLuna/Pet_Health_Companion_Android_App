@@ -113,3 +113,17 @@ With the Pet Health Companion App, you can set notifications for your pet’s bi
 
 When you are all finished using the Pet Health Companion App, you can easily log out so to secure your pet’s data. In the ‘Pet and Upcoming Appointments’ page, simply click on the menu and, in the dropdown menu, select the ‘Logout’ option. You will be redirected to the Login page and will receive a confirmation message that you have been logged out.
 
+## Authors
+
+- [@NikkaLuna](https://github.com/NikkaLuna)
+
+
+## 🚀 About Me
+I'm a Software Engineer with an emphasis on Java, SQL, and AWS.  
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-hayes-msml/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AHayes_Ninja_)
+[![art portfolio](https://img.shields.io/badge/my_art-888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://andreachristinehayes.wixsite.com/andreahayesart/)
+
