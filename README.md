@@ -6,7 +6,7 @@
 The Pet Health Companion App is designed to cater to pet owners who prioritize their beloved companion’s well-being. With the rapid expansion of pet ownership, there's a growing need for a unified platform to manage pet health care efficiently. This app aims to address this need by providing a comprehensive solution for organizing and managing various health-related tasks for pets.
 
 <div style="text-align: center;">
-  <img src="https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/assets/94496219/76da52ca-6cd3-477b-880f-780542054cac">
+  <img src="https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/assets/94496219/2036bf43-8251-4f14-8439-3b93384fce4f">
 </div>
 
 
