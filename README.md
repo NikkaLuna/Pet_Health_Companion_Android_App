@@ -46,7 +46,7 @@ The Pet Health Companion aims to maximize the joy and bonding of pet ownership w
 
 
 ## 🚀 About Me
-I'm a Software Engineer with an emphasis on Java, SQL, and AWS.  
+I'm a Software Engineer with an emphasis on Java, Python,SQL, and AWS.  
 
 
 ## 🔗 Links
