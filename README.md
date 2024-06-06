@@ -38,15 +38,21 @@ The intuitive interface offers pet owners the ability to add, edit, and delete u
 ### User Interface
 
 - **Search & Reports Page**: Users can generate and view reports of upcoming appointments.
+- **Share Appointment Information**: The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text.
+- **Customized Notifications**: Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.
+
 
 ![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
 
 *The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image illustrates the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
 
 
-- **Share Appointment Information**: The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text.
+### Sharing Pet Information
 
-- **Customized Notifications**: Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.
+![Share Pet Functionality](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SharePet.png)
+
+*This screenshot demonstrates the 'Share Pet' functionality in the Pet Health Companion mobile application. Users can share their pet's profile information, including the pet's name, species, and breed, through various apps like Messages, Gmail, Chrome, and Google Drive.*
+
 
 ## Security
 
