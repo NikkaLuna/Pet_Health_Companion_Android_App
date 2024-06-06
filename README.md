@@ -2,7 +2,11 @@
 
 ## Overview
 
-The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. This application is designed to address pet owners' needs for managing their pet health, primarily focusing on scheduling pet health care appointments. The intuitive interface offers pet owners the ability to add, edit, and delete upcoming appointments, ensuring their furry friends receive timely care.
+The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. 
+
+This application is designed to address pet owners' needs for managing their pet health, primarily focusing on scheduling pet health care appointments. 
+
+The intuitive interface offers pet owners the ability to add, edit, and delete upcoming appointments, ensuring their furry friends receive timely care.
 
 ## Development Environment
 
@@ -33,8 +37,15 @@ The Pet Health Companion is a minimum viable product (MVP) created in Android St
 
 ### User Interface
 
-- **Share Appointment Information**: The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text.
 - **Search & Reports Page**: Users can generate and view reports of upcoming appointments.
+
+![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
+
+*The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image illustrates the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
+
+
+- **Share Appointment Information**: The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text.
+
 - **Customized Notifications**: Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.
 
 ## Security
@@ -59,54 +70,6 @@ To represent the class diagram for the Pet Health Companion, a UML diagram has b
 
 ![UML Diagram](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Pet%20Health%20Companion%20Class%20Diagram.jpeg)
 
-
-
-# Pet Health Companion App
-
-<div style="text-align: center;">
-  <img src="https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/assets/94496219/2036bf43-8251-4f14-8439-3b93384fce4f">
-</div>
-
-
-
-
-## Introduction
-
-The Pet Health Companion App is designed to cater to pet owners who prioritize their beloved companion’s well-being. With the rapid expansion of pet ownership, there's a growing need for a unified platform to manage pet health care efficiently. This app aims to address this need by providing a comprehensive solution for organizing and managing various health-related tasks for pets.
-
-[Watch a video demonstration of the project](https://youtu.be/DzeBmGI4DZ0)
-
-
-<div style="text-align: center;">
-  <img src="https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/assets/94496219/2036bf43-8251-4f14-8439-3b93384fce4f">
-</div>
-
-
-## Features
-
-- **Organization**: Helps pet owners stay organized by managing vaccinations, checkups, bloodwork, dental cleanings, medication schedules, and other health-related information.
-- **Communication**: Enables users to easily share their pet’s health logs with veterinarians and family members, facilitating collaboration in pet care.
-- **Monitoring**: Allows users to monitor their pet’s health metrics, detect deviations from normal, and intervene proactively to avoid potential health issues.
-- **Customization**: Offers customization options to personalize a pet’s profile, increasing user satisfaction.
-
-## Goals
-
-### Short-term Goals
-
-- **Organization Methods**: Ensure pet owners don't miss anything regarding their pets’ health concerns.
-- **Communication**: Facilitate easy sharing of pet health logs with veterinarians and family members.
-- **Monitoring**: Enable users to monitor their pet’s health metrics and proactively intervene when necessary.
-- **Customization**: Personalize the app to increase user satisfaction.
-
-### Long-term Objectives
-
-- **Preventative Care**: Prioritize preventative care to minimize health problems and enhance the overall quality of life for pets.
-- **Enhanced Communication**: Improve communication and collaboration with veterinarians and other care providers.
-- **Lifestyle Integration**: Seamlessly integrate the app into users’ lives, making it a reliable partner for managing all aspects of their pet’s health.
-
-## Business Case
-
-Managing pet medical affairs can be overwhelming for pet owners. The Pet Health Companion app simplifies this process by providing a centralized platform for planning, scheduling, sharing, and sending reminders of future appointments. It enables users to observe potential health concerns early, ensures peace of mind by sending timely reminders, and strengthens the bond between pet owners and their furry friends.
 
 ## Fulfillment
 
