@@ -2,11 +2,13 @@
 
 ## Overview
 
-The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. 
+The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. It aims to maximize the joy and bonding of pet ownership while decreasing the stress and overwhelm. It features appointment tracking, health tracking, reminders, sharing capabilities, and customization options to meet the diverse needs of pet owners. By fulfilling these needs, the app strengthens the connection between pet owners and their furry friends, encouraging responsible pet parenting through proper health care.
 
-This application is designed to address pet owners' needs for managing their pet health, primarily focusing on scheduling pet health care appointments. 
 
-The intuitive interface offers pet owners the ability to add, edit, and delete upcoming appointments, ensuring their furry friends receive timely care.
+- ## Video Demonstration
+
+[Watch a video demonstration of the project](https://youtu.be/DzeBmGI4DZ0)
+
 
 ## Development Environment
 
@@ -16,24 +18,17 @@ The intuitive interface offers pet owners the ability to add, edit, and delete u
 - **Version Control**: Git is used for tracking changes in source code, enabling team collaboration and efficient code management.
 - **Dependency Management**: Gradle is used to manage dependencies and construct Android projects, making it easy to add external modules and libraries.
 
-- ## Video Demonstration
-
-[Watch a video demonstration of the project](https://youtu.be/DzeBmGI4DZ0)
-
-
 ## Features
 
-### Appointment Management
+### Appointment and Pet Management
 
 - **Add Appointments**: Users can add new pet healthcare appointments to the database.
 - **Edit Appointments**: Users can modify existing appointments.
 - **Delete Appointments**: Users can remove appointments from the database.
-
-### Pet Management
-
 - **Add Pets**: Users can add their pets' information to the database.
 - **Edit Pets**: Users can modify their pets' details.
 - **Delete Pets**: Users can remove their pets from the database.
+
 
 ### User Interface
 
@@ -76,10 +71,6 @@ To represent the class diagram for the Pet Health Companion, a UML diagram has b
 
 ![UML Diagram](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Pet%20Health%20Companion%20Class%20Diagram.jpeg)
 
-
-## Fulfillment
-
-The Pet Health Companion aims to maximize the joy and bonding of pet ownership while decreasing the stress and overwhelm. It features appointment tracking, health tracking, reminders, sharing capabilities, and customization options to meet the diverse needs of pet owners. By fulfilling these needs, the app strengthens the connection between pet owners and their furry friends, encouraging responsible pet parenting through proper health care.
 
 ## Authors
 
