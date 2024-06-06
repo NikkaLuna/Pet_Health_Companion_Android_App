@@ -27,23 +27,25 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 - **Edit Appointments & Pets:**: Users can modify existing appointments and pets.
 - **Delete Appointments & Pets:**: Users can remove appointments and pets from the database.
 
-### User Interface
 
-- **Search & Reports Page**: Users can generate and view reports of upcoming appointments.
-- **Share Appointment Information**: The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text.
-- **Customized Notifications**: Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.
-
+### Search & Reports Page
 
 ![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
 
 *The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image illustrates the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
+
+### Managing Pet Information and Notifications
+
+![Pet Health Companion Notification](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Notifications.png)
+
+*Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.*
 
 
 ### Sharing Pet Information
 
 ![Share Pet Functionality](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SharePet.png)
 
-*This screenshot demonstrates the 'Share Pet' functionality in the Pet Health Companion mobile application. Users can share their pet's profile information, including the pet's name, species, and breed, through various apps like Messages, Gmail, Chrome, and Google Drive.*
+*The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text*
 
 
 ## Security
@@ -51,8 +53,6 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 The application ensures that user data always remains secure, providing a seamless experience for pet owners to manage their pets' healthcare activities.
 
 ## Unit Testing
-
-The unit test process ensures that the application's codebase is reliable and robust. The plan uses a custom methodology to test specified parts of the application. Core functions such as adding and deleting pets and appointments are assessed to ensure their reliability and accuracy. These tests are valuable for checking the functionality of core features both in isolation and when integrated as a whole.
 
 - **Addition and Deletion of Pet**: The unit tests involve the submission of simulated input data (mock pet) to thoroughly assess and validate the application's mechanism for properly storing and removing data.
 - **Addition and Deletion of Appointment**: The unit tests utilize a mock appointment to test how the data process behaves, evaluating the precision of data persistence and elimination from the database.
