@@ -2,9 +2,11 @@
 
 ## Overview
 
-The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. 
+The Pet Health Companion, developed in Android Studio, is a user-friendly platform designed to streamline pet care management. 
 
-It aims to maximize the joy and bonding of pet ownership while decreasing the stress and overwhelm. It features appointment tracking, reminders, sharing capabilities, a search report, and customization options to meet the diverse needs of pet owners. 
+Serving as a centralized hub for scheduling, sharing, and receiving reminders for appointments, it aims to enhance the joy of pet ownership while minimizing the stress. 
+
+Key features include appointment tracking, customizable reminders, report search functionality, and sharing options tailored to diverse pet owner needs.
 
 - ## Video Demonstration
 
@@ -30,28 +32,31 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 ![Share Pet Functionality](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SharePet.png)
 
-*The application can display information about a pet or a pet's appointment. Users can share this information through notepad, email, or text*
+*Users can share information about an upcoming appointment or a pet via notepad, email, or text.*
 
 
 ### Search & Reports Page
 
 ![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
 
-*The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image shows the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
+*Users can enter a pet's name to retrieve detailed information about the pet's appointments and any upcoming appointments.*
 
 ## Security
 
-Ensuring pet healthcare data remains confidential, the application utilizes secure login with password encryption. 
+- To safeguard the confidentiality of pet data, the application implements a secure authentication system utilizing industry-standard hashing algorithms.
+- Users are required to log in with secure credentials, which are then hashed and stored using robust encryption techniques.  This prevents plaintext password storage.
 
 ## Unit Testing
 
-- **Addition and Deletion of Pet**: The unit tests involve the submission of simulated input data (mock pet) to assess and validate the application's mechanism for properly storing and removing data.
-- **Addition and Deletion of Appointment**: The unit tests utilize a mock appointment to test how the data behaves, evaluating the accuracy of data persistence and removal from the database.
+- **Addition and Deletion of Pet**: Unit tests are designed to simulate adding and deleting pets. This validates the proper functioning of data storage and removal mechanisms within the application.
+- **Addition and Deletion of Appointment**: Mock appointments are used in the tests to evaluate how the application persists and removes appointment data.
 
-## Deliverables
+## Testing Framework
 
-- **Test Scripts**: The source code includes a set of test scripts written using the JUnit testing framework, JUnit assertion library, and Mockito for integration testing.
-- **Test Results**: A report is also included, providing an overview of the test outcomes, encompassing successful tests and - if present - any failures, accompanied by error messages.
+- **JUnit and Mockito**: These frameworks were employed to create test scripts and perform integration testing, ensuring the overall functionality of the application.
+Deliverables
+- **Test Scripts**: JUnit and Mockito were used to write automated test scripts for verification purposes.
+- **Test Results Report**: This report details the outcomes of all tests, including successes, failures, and any corresponding error messages.
 
 ## Class Diagram
 
