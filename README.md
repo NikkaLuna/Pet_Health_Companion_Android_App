@@ -14,23 +14,23 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 ### Appointment and Pet Management
 
-- **Add Appointments & Pets:**: Users can add new pet healthcare appointments to the database.
-- **Edit Appointments & Pets:**: Users can modify existing appointments and pets.
-- **Delete Appointments & Pets:**: Users can remove appointments and pets from the database.
+- **Add Appointments & Pets:** Users can add new pet healthcare appointments to the database.
+- **Edit Appointments & Pets:** Users can modify existing appointments and pets.
+- **Delete Appointments & Pets:** Users can remove appointments and pets from the database.
 
 
 ### Managing Pet Information and Notifications
 
 ![Pet Health Companion Notification](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Notifications.png)
 
-*Users can set notifications for upcoming appointments, ensuring they never miss a vet visit.*
+*Users can set notifications for upcoming birthdays or appointments.*
 
 
 ### Sharing Pet Information
 
 ![Share Pet Functionality](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SharePet.png)
 
-*The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text*
+*The application can display information about a pet, or appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text*
 
 
 ### Search & Reports Page
@@ -41,12 +41,12 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 ## Security
 
-The application ensures that user data always remains secure, providing a seamless experience for pet owners to manage their pets' healthcare activities.
+Ensuring pet healthcare data remains confidential, the application utilizes secure login with password encryption. 
 
 ## Unit Testing
 
-- **Addition and Deletion of Pet**: The unit tests involve the submission of simulated input data (mock pet) to thoroughly assess and validate the application's mechanism for properly storing and removing data.
-- **Addition and Deletion of Appointment**: The unit tests utilize a mock appointment to test how the data process behaves, evaluating the precision of data persistence and elimination from the database.
+- **Addition and Deletion of Pet**: The unit tests involve the submission of simulated input data (mock pet) to assess and validate the application's mechanism for properly storing and removing data.
+- **Addition and Deletion of Appointment**: The unit tests utilize a mock appointment to test how the data behaves, evaluating the accuracy of data persistence and removal from the database.
 
 ## Deliverables
 
