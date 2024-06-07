@@ -19,12 +19,6 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 - **Delete Appointments & Pets:**: Users can remove appointments and pets from the database.
 
 
-### Search & Reports Page
-
-![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
-
-*The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image illustrates the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
-
 ### Managing Pet Information and Notifications
 
 ![Pet Health Companion Notification](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Notifications.png)
@@ -38,6 +32,12 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 *The application can display appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text*
 
+
+### Search & Reports Page
+
+![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
+
+*The buttons at the bottom allow users to add new appointments, search for pets, and add new pets. The right part of the image shows the search functionality, where users can enter a pet's name to retrieve detailed information about the pet's appointments and related details.*
 
 ## Security
 
