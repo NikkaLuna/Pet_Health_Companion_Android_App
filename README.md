@@ -4,7 +4,7 @@
 
 The Pet Health Companion is a minimum viable product (MVP) created in Android Studio, an Android app development environment. 
 
-It aims to maximize the joy and bonding of pet ownership while decreasing the stress and overwhelm. It features appointment tracking, health tracking, reminders, sharing capabilities, and customization options to meet the diverse needs of pet owners. 
+It aims to maximize the joy and bonding of pet ownership while decreasing the stress and overwhelm. It features appointment tracking, reminders, sharing capabilities, a search report, and customization options to meet the diverse needs of pet owners. 
 
 - ## Video Demonstration
 
