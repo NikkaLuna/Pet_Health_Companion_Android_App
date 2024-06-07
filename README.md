@@ -10,15 +10,6 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 [Watch a video demonstration of the project](https://youtu.be/DzeBmGI4DZ0)
 
-
-## Development Environment
-
-- **Android Studio**: The main Integrated Development Environment (IDE) used to create Android apps, providing tools for coding and debugging.
-- **Android SDK**: The Android Software Development Kit (SDK) is used for creating, testing, and distributing Android applications.
-- **Room Persistence Library**: A component of Android Jetpack, Room is a library for managing SQLite databases, acting as an abstraction layer over underlying database infrastructures.
-- **Version Control**: Git is used for tracking changes in source code, enabling team collaboration and efficient code management.
-- **Dependency Management**: Gradle is used to manage dependencies and construct Android projects, making it easy to add external modules and libraries.
-
 ## Features
 
 ### Appointment and Pet Management
@@ -68,6 +59,13 @@ To represent the class diagram for the Pet Health Companion, a UML diagram has b
 
 ![UML Diagram](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/Pet%20Health%20Companion%20Class%20Diagram.jpeg)
 
+## Development Environment
+
+- **Android Studio**: The main Integrated Development Environment (IDE) used to create Android apps, providing tools for coding and debugging.
+- **Android SDK**: The Android Software Development Kit (SDK) is used for creating, testing, and distributing Android applications.
+- **Room Persistence Library**: A component of Android Jetpack, Room is a library for managing SQLite databases, acting as an abstraction layer over underlying database infrastructures.
+- **Version Control**: Git is used for tracking changes in source code, enabling team collaboration and efficient code management.
+- **Dependency Management**: Gradle is used to manage dependencies and construct Android projects, making it easy to add external modules and libraries.
 
 ## Authors
 
