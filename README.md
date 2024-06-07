@@ -30,7 +30,7 @@ It aims to maximize the joy and bonding of pet ownership while decreasing the st
 
 ![Share Pet Functionality](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SharePet.png)
 
-*The application can display information about a pet, or appointment details and the veterinary clinic where the appointment is scheduled. Users can share this information through notepad, email, or text*
+*The application can display information about a pet or a pet's appointment. Users can share this information through notepad, email, or text*
 
 
 ### Search & Reports Page
