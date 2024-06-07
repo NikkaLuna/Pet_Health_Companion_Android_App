@@ -51,7 +51,7 @@ Ensuring pet healthcare data remains confidential, the application utilizes secu
 ## Deliverables
 
 - **Test Scripts**: The source code includes a set of test scripts written using the JUnit testing framework, JUnit assertion library, and Mockito for integration testing.
-- **Test Results**: A report provides an overview of the test outcomes, encompassing successful tests and, if present, any failures, accompanied by error messages.
+- **Test Results**: A report is also included, providing an overview of the test outcomes, encompassing successful tests and - if present - any failures, accompanied by error messages.
 
 ## Class Diagram
 
