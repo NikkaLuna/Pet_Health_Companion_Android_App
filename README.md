@@ -46,15 +46,17 @@ Key features include appointment tracking, customizable reminders, report search
 
 ## Unit Testing
 
-- **Addition and Deletion of Pet**: Unit tests are designed to simulate adding and deleting pets. This validates the proper functioning of data storage and removal mechanisms within the application.
-- **Addition and Deletion of Appointment**: Mock appointments are used in the tests to evaluate how the application persists and removes appointment data.
+**Pet & Appointment Management**:
 
-## Testing Framework
-
-- **JUnit and Mockito**: These frameworks were employed to create test scripts and perform integration testing, ensuring the overall functionality of the application.
-Deliverables
-- **Test Scripts**: JUnit and Mockito were used to write automated test scripts for verification purposes.
-- **Test Results Report**: This report details the outcomes of all tests, including successes, failures, and any corresponding error messages.
+  - **Addition and Deletion**: Simulates adding and deleting pets to validate data storage and removal mechanisms.
+  - **Addition and Deletion**: Use mock appointments to evaluate data persistence and removal.
+      
+**Testing Framework**:
+  - **JUnit and Mockito**: Employed for test script creation and integration testing to ensure overall functionality.
+    
+**Deliverables**:
+  - **Test Scripts**: Written using JUnit and Mockito for automated verification.
+  - **Test Results Report**: Detailed report of test outcomes, including successes, failures, and error messages.
 
 ## Class Diagram
 
