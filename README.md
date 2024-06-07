@@ -2,9 +2,7 @@
 
 ## Overview
 
-The Pet Health Companion, developed in Android Studio, is a user-friendly platform designed to streamline pet care management. 
-
-Serving as a centralized hub for scheduling, sharing, and receiving reminders for appointments, it aims to enhance the joy of pet ownership while minimizing the stress. 
+The Pet Health Companion, developed in Android Studio, is a user-friendly platform designed to streamline pet care management. Serving as a centralized hub for scheduling, sharing, and receiving reminders for appointments, it aims to enhance the joy of pet ownership while minimizing the stress. 
 
 Key features include appointment tracking, customizable reminders, report search functionality, and sharing options tailored to diverse pet owner needs.
 
