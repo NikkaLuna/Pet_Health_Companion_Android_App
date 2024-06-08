@@ -58,7 +58,7 @@ Key features include appointment tracking, customizable reminders, report search
   - **Test Scripts**: Written using JUnit and Mockito for automated verification.
   - **Test Results Report**: Detailed report of test outcomes, including successes, failures, and error messages.
 
-### Challenge: Package Name Compliance
+## Challenge
 
 During the initial development phase, the project packages in Android Studio were named 'demo', which violated the Google Play Console's package naming guidelines. Attempting to refactor all files within their respective packages using Android Studio proved challenging, as it disrupted the project's configurations and dependencies.
 
