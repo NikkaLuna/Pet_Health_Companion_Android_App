@@ -37,7 +37,7 @@ Key features include appointment tracking, customizable reminders, report search
 
 ![Pet Health Companion Interface](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App/blob/master/SearchReport.png)
 
-*Users can enter a pet's name to retrieve detailed information about the pet's appointments and any upcoming appointments.*
+*Users can enter a pet's name to retrieve a detailed, timestamped report about the pet's appointments and any upcoming appointments.*
 
 ## Security
 
