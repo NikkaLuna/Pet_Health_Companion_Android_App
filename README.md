@@ -58,6 +58,20 @@ Key features include appointment tracking, customizable reminders, report search
   - **Test Scripts**: Written using JUnit and Mockito for automated verification.
   - **Test Results Report**: Detailed report of test outcomes, including successes, failures, and error messages.
 
+### Challenge: Package Name Compliance
+
+During the initial development phase, the project packages in Android Studio were named 'demo', which violated the Google Play Console's package naming guidelines. Attempting to refactor all files within their respective packages using Android Studio proved challenging, as it disrupted the project's configurations and dependencies.
+
+To address this issue, I took the following approach:
+
+- **New Project Directory**: I created a new project directory with a compliant package name, adhering to the Google Play Console's naming conventions.
+- **Clean Setup**: Within the new directory, I rebuilt the project from scratch, ensuring that all configurations and dependencies were correctly set up from the start.
+- **Code Migration**: I carefully migrated the existing codebase to the new project, maintaining the project's structure and functionality.
+- **Testing and Validation**: I conducted thorough testing and validation to ensure that the migrated project functioned as expected, without any regressions or issues.
+
+By following this approach, I successfully resolved the package naming issue and ensured compliance with the Google Play Console's guidelines.
+
+
 ## Class Diagram
 
 To represent the class diagram for the Pet Health Companion, a UML diagram has been included below, depicting the main class components and their interrelationships.
