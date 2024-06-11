@@ -41,15 +41,15 @@ Key features include appointment tracking, customizable reminders, report search
 
 ## Security
 
-- To safeguard the confidentiality of pet data, the application implements a secure authentication system utilizing industry-standard hashing algorithms.
-- Users are required to log in with secure credentials, which are then hashed and stored using robust encryption techniques.  This prevents plaintext password storage.
+- To safeguard the confidentiality of pet data, the application implements an authentication system utilizing industry-standard hashing algorithms.
+- Users are required to log in with secure credentials, which are then hashed and stored using encryption techniques.  This prevents plaintext password storage.
 
 ## Unit Testing
 
 **Pet & Appointment Management**:
 
-  - **Addition and Deletion**: Simulates adding and deleting pets to validate data storage and removal mechanisms.
-  - **Addition and Deletion**: Use mock appointments to evaluate data persistence and removal.
+  - **Addition and Deletion**: Simulates adding and deleting pets to validate data storage and removal.
+  - **Addition and Deletion**: Uses mock appointments to evaluate data persistence and removal.
       
 **Testing Framework**:
   - **JUnit and Mockito**: Employed for test script creation and integration testing to ensure overall functionality.
