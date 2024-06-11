@@ -42,7 +42,7 @@ Key features include appointment tracking, customizable reminders, report search
 ## Security
 
 - To safeguard the confidentiality of pet data, the application implements an authentication system utilizing industry-standard hashing algorithms.
-- Users are required to log in with secure credentials, which are then hashed and stored using encryption techniques.  This prevents plaintext password storage.
+- Users are required to log in with secure credentials, which are then hashed and stored with encryption techniques, preventing plaintext password storage.
 
 ## Unit Testing
 
